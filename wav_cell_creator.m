@@ -1,0 +1,1 @@
+wav_cell = {}for i = 1:size(pcg_training_transpose)(2)  wav_cell(:,i) = pcg_training_transpose(:,i);endsize(wav_cell)  
